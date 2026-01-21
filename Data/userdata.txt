@@ -1,0 +1,65 @@
+========================================================
+Date and Time: 10:07 PM, 18/01/2026
+Customer Name: sh
+Phone Number: 123
+Products:
+Chocolate x30 @ 80 BDT = 2400 BDT
+Total Amount: 2400 BDT
+========================================================
+
+========================================================
+Date and Time: 10:09 PM, 18/01/2026
+Customer Name: sh
+Phone Number: 1234
+Products:
+Nuts x50 @ 200 BDT = 10000 BDT
+Total Amount: 10000 BDT
+========================================================
+
+========================================================
+Date and Time: 10:17 PM, 18/01/2026
+Customer Name: Shihab Saidur Rahman
+Phone Number: 12345678
+Products:
+Nuts x20 @ 200 BDT = 4000 BDT
+Chips x2 @ 40 BDT = 80 BDT
+Total Amount: 4080 BDT
+========================================================
+
+========================================================
+Date and Time: 10:25 PM, 18/01/2026
+Customer Name: Shihab
+Phone Number: 1234567
+Products:
+Cake x5 @ 150 BDT = 750 BDT
+Chocolate x2 @ 80 BDT = 160 BDT
+Total Amount: 910 BDT
+========================================================
+
+========================================================
+Date and Time: 11:51 PM, 18/01/2026
+Customer Name: shih
+Phone Number: 4321
+Products:
+Chocolate x70 @ 80 BDT = 5600 BDT
+Total Amount: 5600 BDT
+========================================================
+
+========================================================
+Date and Time: 09:31 PM, 19/01/2026
+Customer Name: saidur
+Phone Number: 4567
+Products:
+Drinks x30 @ 60 BDT = 1800 BDT
+Total Amount: 1800 BDT
+========================================================
+
+========================================================
+Date and Time: 08:08 AM, 20/01/2026
+Customer Name: said
+Phone Number: 3456
+Products:
+Drinks x10 @ 60 BDT = 600 BDT
+Total Amount: 600 BDT
+========================================================
+
